@@ -6,7 +6,7 @@
 - Test Projesi
 
 ### Takım Adı & Üyeleri
-- Takım Üyesi 1 (Ad Soyad)
+- Takım Üyesi 1 (Ad Soyad
 - Takım Üyesi 2 (Ad Soyad)
 
 ### Problem
