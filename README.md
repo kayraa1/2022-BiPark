@@ -32,7 +32,7 @@ North IoT
 - Nesnelerin interneti tabanlı bir proje geliştirdik. Otopark alanlarına kuracağımız inovatif, maliyet-etkin sistemler ile park bölmesi dolu-boş verilerini IoT ağımız ile Firebase platformunda depoluyor ve mobil uygulamaya aktarıyoruz. Kullanıcılara müsait otoparklar için kiralama imkanı sunuyor ve aldığımız dolu-boş bilgilerini bir kroki haline getirip kullanıcıya sunuyoruz. İş fikrimizi oluştururken İSPARK otopark verilerinden ve okulumuzdaki bir öğrenci topluluğunda yaptığımız anket sonucu elde ettiğimiz verilerden yararlandık.
 
 ### Prototip
-- Prototip Açıklamaları
+- Boş park bölmelerinin algılanabilmesi için inovatif ve maliyet-etkin bir tasarım geliştirilmiştir. Sensörlerden gelen verilerin kullanılabilir hale getirilmesine yönelik ve mobil uygulamamızın bazı fonksiyonlarının kullanılabilir hale gelmesine yönelik kodlar yüklenmiştir.
 
 ### Detaylar (İsteğe Bağlı)
 - Detay Açıklamalar
